@@ -1,2 +1,2 @@
 # Talk-Notes
-This are regular notes for talks I have listened to.
+These are regular notes for talks I have listened to.
